@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranthakur07&label=Profile%20views&color=0e75b6&style=flat" alt="simranthakur07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simranthakur07" alt="simranthakur07" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/SimranThakur07](https://github.com/SimranThakur07)
 
 <h3 align="left">Connect with me:</h3>
