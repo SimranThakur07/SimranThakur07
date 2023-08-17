@@ -6,7 +6,11 @@
 
 ###
 
-<h2 align="left"></h2>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I am a highly motivated and results-oriented frontend developer with a passion for creating user-friendly and engaging web experiences.</p>
 
 ###
 
