@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Simran and I'm a Frontend Developer, from India</p>
+<p align="left">My name is Simran and I'm a Frontend Developer at Infotiqq, Noida India.</p>
 
 ###
 
@@ -38,6 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
 ###
@@ -56,6 +60,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SimranThakur07/SimranThakur07/output/snake.svg" alt="Snake animation" />
+<p align="left">Most used Languages!!</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimranThakur07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
