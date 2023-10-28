@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Social Media</p>
+<h2 align="left">Social Media</p>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<p align="left">Most used Languages!!</p>
+<h2 align="left">Most used Languages!!</p>
 
 ###
 
