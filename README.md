@@ -52,7 +52,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/simranthakur07/" target="_blank">
-    <img src="https://icons8.com/icon/44019/linkedin" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.icons8.com/?size=128&id=44019&format=png" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
