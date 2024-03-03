@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Simran and I'm a Frontend Developer at Infotiqq, Noida India.</p>
+<p align="left">My name is Simran and I'm a Frontend Developer.</p>
 
 ###
 
